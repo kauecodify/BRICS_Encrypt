@@ -1,10 +1,10 @@
 # BRICS_Encrypt - Sistema Financeiro Pós-Quântico BRICS
 
+O BRICS_Encrypt é um sistema financeiro inovador desenvolvido para os países do BRICS (Brasil, Rússia, Índia, China e África do Sul), oferecendo transferências internacionais rápidas e seguras com proteção contra ameaças quânticas.
+
 [BRICSPAY](https://www.brics-pay.com)
 
 <img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/857c9f93-ba13-44f1-8dd5-685515fc7f16" />
-
-O BRICS_Encrypt é um sistema financeiro inovador desenvolvido para os países do BRICS (Brasil, Rússia, Índia, China e África do Sul), oferecendo transferências internacionais rápidas e seguras com proteção contra ameaças quânticas.
 
 # Recursos Principais
 
