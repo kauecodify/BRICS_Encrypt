@@ -101,3 +101,5 @@ Soberania Financeira: Controle direto sobre as reservas nacionais
 
 # Licença
 Este projeto está licenciado sob a Licença MIT.
+
+<img width="100" height="75" alt="img" src="https://github.com/user-attachments/assets/c805b0ec-7565-460c-9672-3d56f5d98b1f" />
